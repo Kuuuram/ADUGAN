@@ -1,0 +1,40 @@
+.stTextInput>div>div>input {
+    background-color: #0E1016;
+    border: 2px solid #eb1717;
+    border-radius: 8px;
+}
+.stTextInput>label>div>p {
+    font-family: 'Times New Roman';
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.stTextArea>div>div>textarea {
+    background-color: #0E1016;
+    border: 2px solid #eb1717;
+    border-radius: 8px;
+}
+.stTimeInput>div>div {
+    background-color: #0E1016;
+    border: 2px solid #eb1717;
+    border-radius: 8px;
+}
+.st-ah>div>div>input {
+    background-color: #0E1016;
+    border: 2px solid #eb1717;
+    border-radius: 8px;
+}
+.stElementContainer>div>section {
+    background-color: #0E1016;
+    border: 2px solid #eb1717;
+    border-radius: 8px;
+}
+.stDateInput>label>div>p {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.stTimeInput>label>div>p {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+.st-emotion-cache-13k62yr {
+    background-image: url("https://images.unsplash.com/photo-1738936339590-ea1fc8bd9732?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") ;
+}
